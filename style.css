@@ -24,3 +24,18 @@
 .laptop{
     margin-top: 90px;
 }
+.categories{
+    margin-top: 150px;
+}
+.cate{
+    border-bottom: 5px solid yellow;
+    margin-bottom: 100px;
+}
+.ddd{
+    height: 100px;
+    width: 120px;
+    margin-left: 160px;
+}
+footer{
+    text-align: center;
+}
